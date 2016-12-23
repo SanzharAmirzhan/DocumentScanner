@@ -1,2 +1,2 @@
 # DocumentScanner
-Document scanner written on OpenCV. Import document to pdf file.
+Document scanner written on OpenCV. Can import document to pdf file.
